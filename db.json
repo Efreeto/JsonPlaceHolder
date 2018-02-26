@@ -70,116 +70,6 @@
     {
       "property": {
         "zipCode": 98040,
-        "address": "4915 E Mercer Way, Mercer Island",
-        "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks. Eastern exposure provide Lake WA & territorial views. Home was remodeled throughout, kitchen, bathrooms, laundry room and convenient smart home system. Master bedroom with sitting area, fireplace and sumptuous master bath with walk-in closet. Loft guest/family room with fireplace and view deck. The 2 car garage also has a huge storage room underneath.",
-        "price": 1331000,
-        "estimate": 1257116,
-        "lotArea": 18469,
-        "floorArea": 2740,
-        "bathrooms": 3,
-        "bedrooms": 4,
-        "yearBuilt": 1977,
-        "lastRemodelYear": 0,
-        "structureType": [
-          "Other",
-          "Single Family"
-        ],
-        "patio": [
-          "Deck"
-        ],
-        "flooring": [
-          "Hardwood",
-          "Linoleum / Vinyl"
-        ],
-        "landscaping": "",
-        "interiorFeatures": [
-          "Fireplace",
-          "Vaulted Ceiling"
-        ],
-        "exteriorFeatures": [],
-        "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
-      },
-      "imgUrls": [
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_3_papx4bia1rd&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_5_4lbxnutvu0y&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_7_0bdqwbwhcwa&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_9_f4fsnlixu0y&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_11_3rbjdj4vec3&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_17_r1r0ofynetk&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_13_512rxoluccb&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_2_hpuqn3tjblq&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_15_ujqujmto0w4&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_19_idid4kn3wwn&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_0_kjvpwpjnr0e&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_4_lxxas3tt3jp&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_22_jwerkst2tpx&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_21_fhb15vad0hj&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_10_ds0rwbr2a05&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_12_snau5afnmbf&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_14_ynurokrwfns&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_6_v5louub0xds&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_16_elb35epqzb2&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_23_p5bno1kcosk&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_18_jp32jexhxiz&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_8_guyixu2xirg&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_20_kz0m3eee5iq&typeName=RealEstateImage"
-      ],
-      "thumbnailId": 0
-    },
-    {
-      "property": {
-        "zipCode": 98040,
-        "address": "3696 72nd Pl SE, Mercer Island",
-        "description": "Privacy and seclusion with western exposure this convenient north end home is move in ready. Custom built for current owners by Aspen offering every amenity on your wish list with 4 bedrooms, 5 baths & approx. 4750 sq. ft. of living space. 2 story entry, gourmet eat in kitchen,adjoining family room, main floor office ,lower level media room, large owners suite w/study & steam spa bath. A/C, indoor sprinkler, sound system, leaf guard gutters, private patio great for entertaining and relaxing.",
-        "price": 2163000,
-        "estimate": 2094750,
-        "lotArea": 11782,
-        "floorArea": 4750,
-        "bathrooms": 5,
-        "bedrooms": 4,
-        "yearBuilt": 1999,
-        "lastRemodelYear": 0,
-        "structureType": [],
-        "patio": [],
-        "flooring": [
-          "Carpet",
-          "Hardwood",
-          "Tile"
-        ],
-        "landscaping": "",
-        "interiorFeatures": [],
-        "exteriorFeatures": [],
-        "id": "xxxb4c4c4f510e71317cc17d9073c64d9cf3cf416d0"
-      },
-      "imgUrls": [
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_1_hzptppotaro&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_3_k221ihrj1nj&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_5_uuqqle5yk4v&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_11_3yxm5feljtb&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_7_tfi0wsdq5hz&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_13_igqbkv3flas&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_9_4vvix33g0wd&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_15_jz52t0n4ary&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_2_x24d2drwwzq&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_17_ucjeqjnro2i&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_4_nx22jvvq3jb&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_19_voxznkkyn14&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_18_lfjml0is04a&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_6_v5wmbisuvsr&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_0_nxoddzf5fge&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_8_kozchw3cihi&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_20_2dvuidxm2rr&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_12_iyctdotjpwu&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_10_0eb3t35rdfo&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_14_ng2sezjbfgd&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_16_xgxrfl35oew&typeName=RealEstateImage"
-      ],
-      "thumbnailId": 0
-    },
-    {
-      "property": {
-        "zipCode": 98040,
         "address": "8442 SE 40th St, Mercer Island",
         "description": "Feel the difference in this nwBuilt home. Scandinavian-inspired interiors feature rift sawn white oak walls, artisan metalwork and designer lighting. Flow from the convenient level entry to the vaulted, open main level with ensuite bed/flex room, high end kitchen and living room that opens to an expansive landscaped back yard. Your luxe master and 3 more bedrooms await you upstairs. Enjoy peace of mind with solid, Certified Built Green quality. Close to shops and dining. Ask about Buyer Bonus!",
         "price": 2095000,
@@ -239,5 +129,5 @@
       ],
       "thumbnailId": 0
     }
-  ],
+  ]
 }
