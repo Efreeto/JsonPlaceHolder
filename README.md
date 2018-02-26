@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/Efreeto/JsonPlaceHolder](https://my-json-server.typicode.com/Efreeto/JsonPlaceHolder)
 
 ## Use your own data
 
