@@ -1,14 +1,5 @@
-{
-  "posts": [
-    { "id": 1, "title": "Test 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Keyboard-anykey.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bxLAOlb6wpof7YeTbEbxpRZp5D4YAg-y6yBe5hIDYN9NSJIY",
+  "https://c.tadst.com/gfx/750w/doomsday-rule.jpg"
+]
