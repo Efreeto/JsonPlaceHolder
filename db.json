@@ -47,49 +47,6 @@
     },
     {
       "property": {
-        "zipCode": 92618,
-        "address": "121 Paramount, Irvine",
-        "description": "",
-        "price": 1975000,
-        "estimate": 1895371,
-        "lotArea": 7069,
-        "floorArea": 4133,
-        "bathrooms": 6,
-        "bedrooms": 5,
-        "yearBuilt": 2015,
-        "lastRemodelYear": 0,
-        "structureType": [
-          "Craftsman",
-          "Single Family"
-        ],
-        "patio": [
-          "Porch"
-        ],
-        "flooring": [
-          "Carpet",
-          "Hardwood",
-          "Tile"
-        ],
-        "landscaping": "",
-        "interiorFeatures": [
-          "{\r\n  \"InteriorFeatures\": [\r\n    \"Fireplace\",\r\n    \"Vaulted Ceiling\",\r\n    \"Recessed Lighting, Stone Counters, High Ceilings (9 Feet+), Open Floor Plan\"\r\n  ]\r\n}",
-          "{\r\n  \"Appliances\": [\r\n    \"Water Line to Refrigerator\"\r\n  ]\r\n}"
-        ],
-        "exteriorFeatures": [
-          "{\r\n  \"CommunityFeatures\": [\r\n    \"Storm Drains\"\r\n  ]\r\n}"
-        ],
-        "id": "031b89fcb832485e0c95877d3a276063dd01fc2f"
-      },
-      "imgUrls": [
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_1_jyetgqikvlk&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_3_jooorvd42yh&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_9_2ldlh3zogqv&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_6_3hz2gvg2mow&typeName=RealEstateImage"
-      ],
-      "thumbnailId": 0
-    },
-    {
-      "property": {
         "zipCode": 98040,
         "address": "4915 E Mercer Way, Mercer Island",
         "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks. Eastern exposure provide Lake WA & territorial views. Home was remodeled throughout, kitchen, bathrooms, laundry room and convenient smart home system. Master bedroom with sitting area, fireplace and sumptuous master bath with walk-in closet. Loft guest/family room with fireplace and view deck. The 2 car garage also has a huge storage room underneath.",
@@ -183,35 +140,6 @@
       "imgUrls": [
         "http://localhost:30013//api/v0.2/osearch/Image?id=xxx72063811_zpid_10_lbhcpone2ft&typeName=RealEstateImage",
         "http://localhost:30013//api/v0.2/osearch/Image?id=xxx72063811_zpid_7_rtsrwe25en0&typeName=RealEstateImage"
-      ],
-      "thumbnailId": 0
-    },
-    {
-      "property": {
-        "zipCode": 98040,
-        "address": "8442 SE 40th St, Mercer Island",
-        "description": "Feel the difference in this nwBuilt home. Scandinavian-inspired interiors feature rift sawn white oak walls, artisan metalwork and designer lighting. Flow from the convenient level entry to the vaulted, open main level with ensuite bed/flex room, high end kitchen and living room that opens to an expansive landscaped back yard. Your luxe master and 3 more bedrooms await you upstairs. Enjoy peace of mind with solid, Certified Built Green quality. Close to shops and dining. Ask about Buyer Bonus!",
-        "price": 2095000,
-        "estimate": 2040991,
-        "lotArea": 8276,
-        "floorArea": 3318,
-        "bathrooms": 4,
-        "bedrooms": 5,
-        "yearBuilt": 2017,
-        "lastRemodelYear": 0,
-        "structureType": [],
-        "patio": [],
-        "flooring": [],
-        "landscaping": "",
-        "interiorFeatures": [
-          "Fireplace"
-        ],
-        "exteriorFeatures": [],
-        "id": "xxxbcfe1e74122d5ce1510e4705926d956709b757d3"
-      },
-      "imgUrls": [
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_1_yobvwjipar2&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_25_if5ayne5k4o&typeName=RealEstateImage"
       ],
       "thumbnailId": 0
     }
