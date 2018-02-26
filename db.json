@@ -7,6 +7,46 @@
   "grid": [
     {
       "property": {
+        "zipCode": 92808,
+        "address": "320 E Shivom Ct, Anaheim",
+        "description": "",
+        "price": 2061000,
+        "estimate": 2003920,
+        "lotArea": 20778,
+        "floorArea": 4645,
+        "bathrooms": 4,
+        "bedrooms": 5,
+        "yearBuilt": 2006,
+        "lastRemodelYear": 0,
+        "structureType": [
+          "Spanish",
+          "Single Family"
+        ],
+        "patio": [
+          "Porch"
+        ],
+        "flooring": [
+          "Carpet"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [
+          "{\r\n  \"InteriorFeatures\": [\r\n    \"Fireplace\",\r\n    \"Vaulted Ceiling\",\r\n    \"Ceiling Fan\",\r\n    \"Recessed Lighting, Built-Ins, Stone Counters, High Ceilings (9 Feet+), Open Floor Plan, Beamed Ceilings, Balcony, Granite Counters, Two Story Ceilings, Crown Moldings, Block Walls, Dry Bar, 2 Staircases, Dumbwaiter, Coffered Ceiling(s)\"\r\n  ]\r\n}",
+          "{\r\n  \"DoorFeatures\": [\r\n    \"Double Door Entry\"\r\n  ]\r\n}"
+        ],
+        "exteriorFeatures": [],
+        "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_4_0xka4fvz0og&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_2_awbnihnod5z&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_6_5rcneulynsf&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_8_f4wkvmx2mhr&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
         "zipCode": 92618,
         "address": "121 Paramount, Irvine",
         "description": "",
@@ -44,26 +84,105 @@
         "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_1_jyetgqikvlk&typeName=RealEstateImage",
         "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_3_jooorvd42yh&typeName=RealEstateImage",
         "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_9_2ldlh3zogqv&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_6_3hz2gvg2mow&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_11_yr1ioycuvwc&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_8_l2yg3vtpyqi&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_12_z1xgjoacdws&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_17_10bwkyxdciu&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_19_ovl5j5gouzc&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_16_ovhttnqavid&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_0_jxzi4verdub&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_20_qymqzx5bess&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_22_c1qbzqnrdfm&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_21_0ijsjpstico&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_2_t1lohvvcl0m&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_4_4nhnth32w5c&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_5_yfazg4vzyh1&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_14_mqm1gzzwym2&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_7_xdg50nkcsoh&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_15_rz1ovamodgb&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_18_zjsmfjj0zct&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_10_st14l5sy2g0&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_13_ti5zxl5pqnu&typeName=RealEstateImage"
+        "http://localhost:30013//api/v0.2/osearch/Image?id=125123842_zpid_6_3hz2gvg2mow&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
+        "zipCode": 98040,
+        "address": "4915 E Mercer Way, Mercer Island",
+        "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks. Eastern exposure provide Lake WA & territorial views. Home was remodeled throughout, kitchen, bathrooms, laundry room and convenient smart home system. Master bedroom with sitting area, fireplace and sumptuous master bath with walk-in closet. Loft guest/family room with fireplace and view deck. The 2 car garage also has a huge storage room underneath.",
+        "price": 1331000,
+        "estimate": 1257116,
+        "lotArea": 18469,
+        "floorArea": 2740,
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "yearBuilt": 1977,
+        "lastRemodelYear": 0,
+        "structureType": [
+          "Other",
+          "Single Family"
+        ],
+        "patio": [
+          "Deck"
+        ],
+        "flooring": [
+          "Hardwood",
+          "Linoleum / Vinyl"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [
+          "Fireplace",
+          "Vaulted Ceiling"
+        ],
+        "exteriorFeatures": [],
+        "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_3_papx4bia1rd&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
+        "zipCode": 98040,
+        "address": "3696 72nd Pl SE, Mercer Island",
+        "description": "Privacy and seclusion with western exposure this convenient north end home is move in ready. Custom built for current owners by Aspen offering every amenity on your wish list with 4 bedrooms, 5 baths & approx. 4750 sq. ft. of living space. 2 story entry, gourmet eat in kitchen,adjoining family room, main floor office ,lower level media room, large owners suite w/study & steam spa bath. A/C, indoor sprinkler, sound system, leaf guard gutters, private patio great for entertaining and relaxing.",
+        "price": 2163000,
+        "estimate": 2094750,
+        "lotArea": 11782,
+        "floorArea": 4750,
+        "bathrooms": 5,
+        "bedrooms": 4,
+        "yearBuilt": 1999,
+        "lastRemodelYear": 0,
+        "structureType": [],
+        "patio": [],
+        "flooring": [
+          "Carpet",
+          "Hardwood",
+          "Tile"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [],
+        "exteriorFeatures": [],
+        "id": "xxxb4c4c4f510e71317cc17d9073c64d9cf3cf416d0"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_1_hzptppotaro&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_16_xgxrfl35oew&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
+        "zipCode": 98122,
+        "address": "509 Randolph Ave, Seattle",
+        "description": "Spectacular noteworthy architecture! The Clarks also designed the Denny Blaine Chihuly home. Nestled off the shores of Lake Washington, this exquisite custom  home is graced w/ sparking water views from most living areas. Special  features include soaring ceilings, walls of windows + bright open interiors. Serene liv rm opens to big view terrace.   Chef's kitchen fully equipped w/ high-end appliances. A rare find-expansive upper level w/gorgeous view master  + 2 lovely en suites. Coveted pocket.",
+        "price": 2101000,
+        "estimate": 2023597,
+        "lotArea": 6534,
+        "floorArea": 4292,
+        "bathrooms": 4,
+        "bedrooms": 4,
+        "yearBuilt": 2002,
+        "lastRemodelYear": 0,
+        "structureType": [],
+        "patio": [],
+        "flooring": [],
+        "landscaping": "",
+        "interiorFeatures": [
+          "Fireplace"
+        ],
+        "exteriorFeatures": [],
+        "id": "xxx2e82e7ec4b0c323c4142da784af08eabaab0f430"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx72063811_zpid_10_lbhcpone2ft&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx72063811_zpid_7_rtsrwe25en0&typeName=RealEstateImage"
       ],
       "thumbnailId": 0
     },
@@ -92,42 +211,17 @@
       },
       "imgUrls": [
         "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_1_yobvwjipar2&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_3_htwd1lhmkvk&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_0_lqrqdvddxb5&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_5_uy0bk00u3fh&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_2_deondfnunke&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_9_iapedan1rts&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_7_hf202pkzwkr&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_6_p1gms4ue1dq&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_4_g2r0mjjmmya&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_11_0gvosgvedaw&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_8_shluasvuoel&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_13_tps5lisjkhe&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_17_tgosu0nnwyu&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_22_4nqahrcjaj5&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_10_l1gps0cxpyi&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_14_wm4s4lhk1ba&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_27_nwaptnafjx3&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_15_zaeth0idy1e&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_19_hdipb5mvj4n&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_24_ltpteamnlwu&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_12_ocj1lijqo1n&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_29_zlncqv3ln44&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_16_mh0bm20jbeb&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_31_kvxdmhmeyot&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_26_ftpgvodo0h1&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_21_o4htgtdsbw1&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_28_4n3dmnasdpi&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_33_rvvtr320ez4&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_30_jdozhnhpcuw&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_34_agxdjwl3xso&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_32_2ja51hqowd0&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_18_rmq01pngjqr&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_23_kvhob4m02oa&typeName=RealEstateImage",
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_20_p2ikehkz1pv&typeName=RealEstateImage",
         "http://localhost:30013//api/v0.2/osearch/Image?id=xxx2092596305_zpid_25_if5ayne5k4o&typeName=RealEstateImage"
       ],
       "thumbnailId": 0
     }
-  ]
+  ],
+  "text": {
+    "Test 1": 1,
+    "Test 2": "two",
+    "Test 3": [
+      "Let's",
+      "Go!"
+    ]
+  }
 }
