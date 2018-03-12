@@ -39,7 +39,7 @@
           "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
         },
         "imgUrls": [
-          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage",
+          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage"
         ],
         "thumbnailId": 0
       },
@@ -76,7 +76,7 @@
           "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
         },
         "imgUrls": [
-          "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage",
+          "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage"
         ],
         "thumbnailId": 0
       }
