@@ -40,10 +40,6 @@
         },
         "imgUrls": [
           "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage",
-          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_4_0xka4fvz0og&typeName=RealEstateImage",
-          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_2_awbnihnod5z&typeName=RealEstateImage",
-          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_6_5rcneulynsf&typeName=RealEstateImage",
-          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_8_f4wkvmx2mhr&typeName=RealEstateImage"
         ],
         "thumbnailId": 0
       },
@@ -81,7 +77,6 @@
         },
         "imgUrls": [
           "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage",
-          "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_3_papx4bia1rd&typeName=RealEstateImage"
         ],
         "thumbnailId": 0
       }
