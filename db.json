@@ -141,14 +141,40 @@
       "thumbnailId": 0
     }
   ],
+  "person": {
+    "Types": ["Person"],
+    "Fields": ["creative"],
+    "Data": [
+        {
+            "creative": {
+                "firstName": "Leonor",
+                "lastName": "Lion",
+                "photoUrl": "/creatives/Leonor.jpg",
+                "state": 1,
+                "email": "LL@ll.com",
+                "phone_number": "123-456-7890"
+            }
+        },
+        {
+            "creative": {
+                "firstName": "Bianca",
+                "lastName": "White",
+                "photoUrl": "/creatives/Bianca.jpg",
+                "state": 2,
+                "email": "BW@bw.com",
+                "phone_number": "098-765-4321"
+            }
+        }
+    ]
+  },
   "house": {
-  "types": [
+  "Types": [
     "House"
   ],
-  "fields": [
+  "Fields": [
     "property"
   ],
-  "data": [
+  "Data": [
     {
       "property": {
         "zipCode": 92808,
