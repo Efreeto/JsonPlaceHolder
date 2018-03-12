@@ -1,82 +1,224 @@
 {
-  "house": {
-    "types": [
-      "House"
-    ],
-    "fields": [
-      "property"
-    ],
-    "data": [
-      {
-        "property": {
-          "zipCode": 92808,
-          "address": "320 E Shivom Ct, Anaheim",
-          "description": "",
-          "price": 2061000,
-          "estimate": 2003920,
-          "lotArea": 20778,
-          "floorArea": 4645,
-          "bathrooms": 4,
-          "bedrooms": 5,
-          "yearBuilt": 2006,
-          "lastRemodelYear": 0,
-          "structureType": [
-            "Spanish",
-            "Single Family"
-          ],
-          "patio": [
-            "Porch"
-          ],
-          "flooring": [
-            "Carpet"
-          ],
-          "landscaping": "",
-          "interiorFeatures": [],
-          "exteriorFeatures": [],
-          "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
-        },
-        "imgUrls": [
-          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage"
+  "carousel": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/Keyboard-anykey.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bxLAOlb6wpof7YeTbEbxpRZp5D4YAg-y6yBe5hIDYN9NSJIY",
+    "https://c.tadst.com/gfx/750w/doomsday-rule.jpg"
+  ],
+  "grid": [
+    {
+      "property": {
+        "zipCode": 92808,
+        "address": "320 E Shivom Ct, Anaheim",
+        "description": "",
+        "price": 2061000,
+        "estimate": 2003920,
+        "lotArea": 20778,
+        "floorArea": 4645,
+        "bathrooms": 4,
+        "bedrooms": 5,
+        "yearBuilt": 2006,
+        "lastRemodelYear": 0,
+        "structureType": [
+          "Spanish",
+          "Single Family"
         ],
-        "thumbnailId": 0
+        "patio": [
+          "Porch"
+        ],
+        "flooring": [
+          "Carpet"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [],
+        "exteriorFeatures": [],
+        "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
       },
-      {
-        "property": {
-          "zipCode": 98040,
-          "address": "4915 E Mercer Way, Mercer Island",
-          "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks.",
-          "price": 1331000,
-          "estimate": 1257116,
-          "lotArea": 18469,
-          "floorArea": 2740,
-          "bathrooms": 3,
-          "bedrooms": 4,
-          "yearBuilt": 1977,
-          "lastRemodelYear": 0,
-          "structureType": [
-            "Other",
-            "Single Family"
-          ],
-          "patio": [
-            "Deck"
-          ],
-          "flooring": [
-            "Hardwood",
-            "Linoleum / Vinyl"
-          ],
-          "landscaping": "",
-          "interiorFeatures": [
-            "Fireplace",
-            "Vaulted Ceiling"
-          ],
-          "exteriorFeatures": [],
-          "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
-        },
-        "imgUrls": [
-          "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage"
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_4_0xka4fvz0og&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_2_awbnihnod5z&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_6_5rcneulynsf&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_8_f4wkvmx2mhr&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
+        "zipCode": 98040,
+        "address": "4915 E Mercer Way, Mercer Island",
+        "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks. Eastern exposure provide Lake WA & territorial views. Home was remodeled throughout, kitchen, bathrooms, laundry room and convenient smart home system. Master bedroom with sitting area, fireplace and sumptuous master bath with walk-in closet. Loft guest/family room with fireplace and view deck. The 2 car garage also has a huge storage room underneath.",
+        "price": 1331000,
+        "estimate": 1257116,
+        "lotArea": 18469,
+        "floorArea": 2740,
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "yearBuilt": 1977,
+        "lastRemodelYear": 0,
+        "structureType": [
+          "Other",
+          "Single Family"
         ],
-        "thumbnailId": 0
-      }
-    ]
-  }
+        "patio": [
+          "Deck"
+        ],
+        "flooring": [
+          "Hardwood",
+          "Linoleum / Vinyl"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [
+          "Fireplace",
+          "Vaulted Ceiling"
+        ],
+        "exteriorFeatures": [],
+        "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_3_papx4bia1rd&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
+        "zipCode": 98040,
+        "address": "3696 72nd Pl SE, Mercer Island",
+        "description": "Privacy and seclusion with western exposure this convenient north end home is move in ready. Custom built for current owners by Aspen offering every amenity on your wish list with 4 bedrooms, 5 baths & approx. 4750 sq. ft. of living space. 2 story entry, gourmet eat in kitchen,adjoining family room, main floor office ,lower level media room, large owners suite w/study & steam spa bath. A/C, indoor sprinkler, sound system, leaf guard gutters, private patio great for entertaining and relaxing.",
+        "price": 2163000,
+        "estimate": 2094750,
+        "lotArea": 11782,
+        "floorArea": 4750,
+        "bathrooms": 5,
+        "bedrooms": 4,
+        "yearBuilt": 1999,
+        "lastRemodelYear": 0,
+        "structureType": [],
+        "patio": [],
+        "flooring": [
+          "Carpet",
+          "Hardwood",
+          "Tile"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [],
+        "exteriorFeatures": [],
+        "id": "xxxb4c4c4f510e71317cc17d9073c64d9cf3cf416d0"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_1_hzptppotaro&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48885068_zpid_16_xgxrfl35oew&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
+        "zipCode": 98122,
+        "address": "509 Randolph Ave, Seattle",
+        "description": "Spectacular noteworthy architecture! The Clarks also designed the Denny Blaine Chihuly home. Nestled off the shores of Lake Washington, this exquisite custom  home is graced w/ sparking water views from most living areas. Special  features include soaring ceilings, walls of windows + bright open interiors. Serene liv rm opens to big view terrace.   Chef's kitchen fully equipped w/ high-end appliances. A rare find-expansive upper level w/gorgeous view master  + 2 lovely en suites. Coveted pocket.",
+        "price": 2101000,
+        "estimate": 2023597,
+        "lotArea": 6534,
+        "floorArea": 4292,
+        "bathrooms": 4,
+        "bedrooms": 4,
+        "yearBuilt": 2002,
+        "lastRemodelYear": 0,
+        "structureType": [],
+        "patio": [],
+        "flooring": [],
+        "landscaping": "",
+        "interiorFeatures": [
+          "Fireplace"
+        ],
+        "exteriorFeatures": [],
+        "id": "xxx2e82e7ec4b0c323c4142da784af08eabaab0f430"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx72063811_zpid_10_lbhcpone2ft&typeName=RealEstateImage",
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx72063811_zpid_7_rtsrwe25en0&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    }
+  ],
+  "house": {
+  "types": [
+    "House"
+  ],
+  "fields": [
+    "property"
+  ],
+  "data": [
+    {
+      "property": {
+        "zipCode": 92808,
+        "address": "320 E Shivom Ct, Anaheim",
+        "description": "",
+        "price": 2061000,
+        "estimate": 2003920,
+        "lotArea": 20778,
+        "floorArea": 4645,
+        "bathrooms": 4,
+        "bedrooms": 5,
+        "yearBuilt": 2006,
+        "lastRemodelYear": 0,
+        "structureType": [
+          "Spanish",
+          "Single Family"
+        ],
+        "patio": [
+          "Porch"
+        ],
+        "flooring": [
+          "Carpet"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [],
+        "exteriorFeatures": [],
+        "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    },
+    {
+      "property": {
+        "zipCode": 98040,
+        "address": "4915 E Mercer Way, Mercer Island",
+        "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks.",
+        "price": 1331000,
+        "estimate": 1257116,
+        "lotArea": 18469,
+        "floorArea": 2740,
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "yearBuilt": 1977,
+        "lastRemodelYear": 0,
+        "structureType": [
+          "Other",
+          "Single Family"
+        ],
+        "patio": [
+          "Deck"
+        ],
+        "flooring": [
+          "Hardwood",
+          "Linoleum / Vinyl"
+        ],
+        "landscaping": "",
+        "interiorFeatures": [
+          "Fireplace",
+          "Vaulted Ceiling"
+        ],
+        "exteriorFeatures": [],
+        "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
+      },
+      "imgUrls": [
+        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage"
+      ],
+      "thumbnailId": 0
+    }
+  ]
+}
 }
