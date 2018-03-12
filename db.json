@@ -18,19 +18,6 @@
         "bedrooms": 5,
         "yearBuilt": 2006,
         "lastRemodelYear": 0,
-        "structureType": [
-          "Spanish",
-          "Single Family"
-        ],
-        "patio": [
-          "Porch"
-        ],
-        "flooring": [
-          "Carpet"
-        ],
-        "landscaping": "",
-        "interiorFeatures": [],
-        "exteriorFeatures": [],
         "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
       },
       "imgUrls": [
@@ -55,23 +42,6 @@
         "bedrooms": 4,
         "yearBuilt": 1977,
         "lastRemodelYear": 0,
-        "structureType": [
-          "Other",
-          "Single Family"
-        ],
-        "patio": [
-          "Deck"
-        ],
-        "flooring": [
-          "Hardwood",
-          "Linoleum / Vinyl"
-        ],
-        "landscaping": "",
-        "interiorFeatures": [
-          "Fireplace",
-          "Vaulted Ceiling"
-        ],
-        "exteriorFeatures": [],
         "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
       },
       "imgUrls": [
