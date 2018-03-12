@@ -142,109 +142,113 @@
     }
   ],
   "person": {
-    "types": ["Person"],
-    "fields": ["creative"],
+    "types": [
+      "Person"
+    ],
+    "fields": [
+      "creative"
+    ],
     "data": [
-        {
-            "creative": {
-                "firstName": "Leonor",
-                "lastName": "Lion",
-                "photoUrl": "/creatives/Leonor.jpg",
-                "state": 1,
-                "email": "LL@ll.com",
-                "phone_number": "123-456-7890"
-            }
-        },
-        {
-            "creative": {
-                "firstName": "Bianca",
-                "lastName": "White",
-                "photoUrl": "/creatives/Bianca.jpg",
-                "state": 2,
-                "email": "BW@bw.com",
-                "phone_number": "098-765-4321"
-            }
+      {
+        "creative": {
+            "firstName": "Leonor",
+            "lastName": "Lion",
+            "photoUrl": "/creatives/Leonor.jpg",
+            "state": 1,
+            "email": "LL@ll.com",
+            "phone_number": "123-456-7890"
         }
+      },
+      {
+        "creative": {
+            "firstName": "Bianca",
+            "lastName": "White",
+            "photoUrl": "/creatives/Bianca.jpg",
+            "state": 2,
+            "email": "BW@bw.com",
+            "phone_number": "098-765-4321"
+        }
+      }
     ]
   },
   "house": {
-  "Types": [
-    "House"
-  ],
-  "Fields": [
-    "property"
-  ],
-  "Data": [
-    {
-      "property": {
-        "zipCode": 92808,
-        "address": "320 E Shivom Ct, Anaheim",
-        "description": "",
-        "price": 2061000,
-        "estimate": 2003920,
-        "lotArea": 20778,
-        "floorArea": 4645,
-        "bathrooms": 4,
-        "bedrooms": 5,
-        "yearBuilt": 2006,
-        "lastRemodelYear": 0,
-        "structureType": [
-          "Spanish",
-          "Single Family"
+    "types": [
+      "House"
+    ],
+    "fields": [
+      "property"
+    ],
+    "data": [
+      {
+        "property": {
+          "zipCode": 92808,
+          "address": "320 E Shivom Ct, Anaheim",
+          "description": "",
+          "price": 2061000,
+          "estimate": 2003920,
+          "lotArea": 20778,
+          "floorArea": 4645,
+          "bathrooms": 4,
+          "bedrooms": 5,
+          "yearBuilt": 2006,
+          "lastRemodelYear": 0,
+          "structureType": [
+            "Spanish",
+            "Single Family"
+          ],
+          "patio": [
+            "Porch"
+          ],
+          "flooring": [
+            "Carpet"
+          ],
+          "landscaping": "",
+          "interiorFeatures": [],
+          "exteriorFeatures": [],
+          "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
+        },
+        "imgUrls": [
+          "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage"
         ],
-        "patio": [
-          "Porch"
-        ],
-        "flooring": [
-          "Carpet"
-        ],
-        "landscaping": "",
-        "interiorFeatures": [],
-        "exteriorFeatures": [],
-        "id": "e1fc2f2d79d8bb2892b5eb5c5cd0beeb1af0242d"
+        "thumbnailId": 0
       },
-      "imgUrls": [
-        "http://localhost:30013//api/v0.2/osearch/Image?id=69247428_zpid_0_ot3zumnewib&typeName=RealEstateImage"
-      ],
-      "thumbnailId": 0
-    },
-    {
-      "property": {
-        "zipCode": 98040,
-        "address": "4915 E Mercer Way, Mercer Island",
-        "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks.",
-        "price": 1331000,
-        "estimate": 1257116,
-        "lotArea": 18469,
-        "floorArea": 2740,
-        "bathrooms": 3,
-        "bedrooms": 4,
-        "yearBuilt": 1977,
-        "lastRemodelYear": 0,
-        "structureType": [
-          "Other",
-          "Single Family"
+      {
+        "property": {
+          "zipCode": 98040,
+          "address": "4915 E Mercer Way, Mercer Island",
+          "description": "Classic Mercer island NW Contemporary home with huge flat usable yard & entertaining sized decks.",
+          "price": 1331000,
+          "estimate": 1257116,
+          "lotArea": 18469,
+          "floorArea": 2740,
+          "bathrooms": 3,
+          "bedrooms": 4,
+          "yearBuilt": 1977,
+          "lastRemodelYear": 0,
+          "structureType": [
+            "Other",
+            "Single Family"
+          ],
+          "patio": [
+            "Deck"
+          ],
+          "flooring": [
+            "Hardwood",
+            "Linoleum / Vinyl"
+          ],
+          "landscaping": "",
+          "interiorFeatures": [
+            "Fireplace",
+            "Vaulted Ceiling"
+          ],
+          "exteriorFeatures": [],
+          "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
+        },
+        "imgUrls": [
+          "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage"
         ],
-        "patio": [
-          "Deck"
-        ],
-        "flooring": [
-          "Hardwood",
-          "Linoleum / Vinyl"
-        ],
-        "landscaping": "",
-        "interiorFeatures": [
-          "Fireplace",
-          "Vaulted Ceiling"
-        ],
-        "exteriorFeatures": [],
-        "id": "xxx8eabe0e21469a0902bba6aa8a5bdbb5d0433d849"
-      },
-      "imgUrls": [
-        "http://localhost:30013//api/v0.2/osearch/Image?id=xxx48782378_zpid_1_zf324l4shgd&typeName=RealEstateImage"
-      ],
-      "thumbnailId": 0
-    }
-  ]
-}
+        "thumbnailId": 0
+      }
+    ]
+  }
 }
