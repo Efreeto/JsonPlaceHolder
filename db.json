@@ -142,9 +142,9 @@
     }
   ],
   "person": {
-    "Types": ["Person"],
-    "Fields": ["creative"],
-    "Data": [
+    "types": ["Person"],
+    "fields": ["creative"],
+    "data": [
         {
             "creative": {
                 "firstName": "Leonor",
